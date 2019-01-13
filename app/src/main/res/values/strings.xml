@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RestFree</string>
+    <string name="title_app">Mesero Android</string>
+    <string name="next">Siguiente</string>
+    <string name="who_are_you">¿Qué haces en el restaurante?</string>
+    <string name="admin">Soy administrador</string>
+    <string name="waiter">Soy mesero</string>
+</resources>
