@@ -5,4 +5,8 @@
     <string name="who_are_you">¿Qué haces en el restaurante?</string>
     <string name="admin">Soy administrador</string>
     <string name="waiter">Soy mesero</string>
+    <string name="title_activity_main_page">MainPage</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
 </resources>
